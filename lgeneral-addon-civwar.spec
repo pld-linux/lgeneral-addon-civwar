@@ -2,7 +2,7 @@ Summary:	LGeneral game - Civwar mod
 Summary(pl.UTF-8):	Gra Linux General - modyfikacja Civwar
 Name:		lgeneral-addon-civwar
 Version:	1.0
-Release:	1
+Release:	2
 License:	unknown
 Group:		Applications/Games
 Source0:	http://lgames.sourceforge.net/LGeneral/addons/civwar.zip
